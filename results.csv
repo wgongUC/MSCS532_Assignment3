@@ -1,0 +1,33 @@
+Algorithm,Dataset,Input Size,Median Execution Time (ms)
+Randomized Quick Sort,Random,100,0.0369
+Deterministic Quick Sort,Random,100,0.0279
+Randomized Quick Sort,Sorted,100,0.034
+Deterministic Quick Sort,Sorted,100,0.0871
+Randomized Quick Sort,Reverse Sorted,100,0.0355
+Deterministic Quick Sort,Reverse Sorted,100,0.1394
+Randomized Quick Sort,Repeated Values,100,0.0609
+Deterministic Quick Sort,Repeated Values,100,0.0523
+Randomized Quick Sort,Random,500,0.228
+Deterministic Quick Sort,Random,500,0.1738
+Randomized Quick Sort,Sorted,500,0.2148
+Deterministic Quick Sort,Sorted,500,1.7784
+Randomized Quick Sort,Reverse Sorted,500,0.2171
+Deterministic Quick Sort,Reverse Sorted,500,3.1006
+Randomized Quick Sort,Repeated Values,500,0.3656
+Deterministic Quick Sort,Repeated Values,500,0.3271
+Randomized Quick Sort,Random,1000,0.4933
+Deterministic Quick Sort,Random,1000,0.5125
+Randomized Quick Sort,Sorted,1000,0.4592
+Deterministic Quick Sort,Sorted,1000,7.2558
+Randomized Quick Sort,Reverse Sorted,1000,0.4682
+Deterministic Quick Sort,Reverse Sorted,1000,12.7541
+Randomized Quick Sort,Repeated Values,1000,0.8213
+Deterministic Quick Sort,Repeated Values,1000,0.677
+Randomized Quick Sort,Random,2000,1.09
+Deterministic Quick Sort,Random,2000,0.8716
+Randomized Quick Sort,Sorted,2000,1.0356
+Deterministic Quick Sort,Sorted,2000,29.03
+Randomized Quick Sort,Reverse Sorted,2000,1.0016
+Deterministic Quick Sort,Reverse Sorted,2000,51.9253
+Randomized Quick Sort,Repeated Values,2000,1.7012
+Deterministic Quick Sort,Repeated Values,2000,1.4823
